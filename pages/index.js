@@ -30,7 +30,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Somebody shoot me please</p>
         <p>
-          Of course I don't want to do this but I'm poor so yeah.
+          Of course I don&#39;t want to do this but I&#39;m poor so yeah.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
